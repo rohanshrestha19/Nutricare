@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-black text-[10px] uppercase tracking-[0.4em] mb-8 text-emerald-400">Reach Us</h4>
             <ul className="space-y-4 text-sm font-bold">
-              <li className="text-emerald-200/60 leading-relaxed italic">123 Wellness Blvd,<br />Suite 500, Health City</li>
+              <li className="text-emerald-200/60 leading-relaxed italic">Baneshwor,<br />Kathmandu</li>
               <li><a href="mailto:concierge@nutricare.bio" className="text-emerald-200/60 hover:text-white transition-colors">concierge@nutricare.bio</a></li>
             </ul>
           </div>
