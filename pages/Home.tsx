@@ -365,14 +365,14 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
             <ModernTestimonial 
               quote="The transition to clinical nutrition was the single most effective intervention for my chronic fatigue. It's truly transformative."
-              author="Dr. Julian Vane"
-              role="Biological Chemist"
+              author="Rohan Shrestha"
+              role="Member since 2022"
               image="https://i.pravatar.cc/150?u=julian"
             />
             <ModernTestimonial 
               quote="Managing type-2 diabetes usually feels like a chore. NutriCare+ turned it into a culinary adventure with perfect glycemic stability."
               author="Sarah Jenkins"
-              role="Member since 2022"
+              role="Biological Chemist"
               image="https://i.pravatar.cc/150?u=sarah"
             />
           </div>
