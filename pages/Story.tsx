@@ -14,7 +14,7 @@ const Story: React.FC = () => {
           </h1>
           <div className="max-w-2xl mx-auto">
             <p className="text-xl text-slate-600 font-medium leading-relaxed italic font-serif">
-              "It started with a simple question: Why is the most powerful medicine—our food—the hardest one to manage?"
+              "It started with a simple question: Why is the most powerful medicine, "Our food" the hardest one to manage?"
             </p>
           </div>
         </div>
@@ -44,7 +44,7 @@ const Story: React.FC = () => {
             <h2 className="text-4xl font-black text-[#1E3932] tracking-tighter">The Journey.</h2>
             <div className="space-y-6 text-slate-500 font-medium leading-relaxed">
               <p>
-                In 2019, our founders witnessed firsthand the struggle of managing complex clinical diets within a household. The "one-size-fits-all" approach to nutrition wasn't just ineffective—it was failing people who needed it most.
+                In 2019, our founders witnessed firsthand the struggle of managing complex clinical diets within a household. The "one-size-fits-all" approach to nutrition wasn't just ineffective, it was failing people who needed it most.
               </p>
               <p>
                 NutriCare+ was conceptualized as a bridge between the clinical laboratory and the dinner table. We spent two years collaborating with endocrinologists, cardiologists, and culinary masters to develop an algorithm that doesn't just calculate calories, but orchestrates therapeutic nutrition.
@@ -64,7 +64,7 @@ const Story: React.FC = () => {
             "We don't just sell meal plans. We provide the <span className="text-[#C5A059]">clinical roadmap</span> to a life without biological limits."
           </blockquote>
           <div className="w-12 h-px bg-[#C5A059] mx-auto mb-6"></div>
-          <span className="text-[10px] font-black uppercase tracking-[0.4em] text-[#C5A059]">Founder & CEO</span>
+          <span className="text-[10px] font-black uppercase tracking-[0.4em] text-[#C5A059]">Dr. Prasiddha Bhat</span>
         </div>
         <div className="absolute top-0 left-0 w-full h-full opacity-5 pointer-events-none">
           <div className="h-full bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"></div>

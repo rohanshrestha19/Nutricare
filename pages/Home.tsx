@@ -346,7 +346,7 @@ const Home: React.FC = () => {
         <div className="max-w-5xl mx-auto px-6 text-center">
           <span className="text-[#C5A059] font-black text-[10px] uppercase tracking-[0.8em] mb-12 block">The Philosophy</span>
           <blockquote className="text-4xl md:text-7xl font-bold tracking-tighter leading-tight mb-16 italic font-serif">
-            "We believe the most <span className="text-[#C5A059] not-italic font-sans font-black">advanced technology</span> in the world isn't a computer—it's the <span className="underline decoration-[#C5A059]">human metabolism</span>."
+            "We believe the most <span className="text-[#C5A059] not-italic font-sans font-black">advanced technology</span> in the world isn't a computer-it's the <span className="underline decoration-[#C5A059]">human metabolism</span>."
           </blockquote>
           <div className="inline-flex items-center space-x-6">
             <div className="w-16 h-px bg-white/20"></div>
