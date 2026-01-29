@@ -126,6 +126,14 @@ const Home: React.FC = () => {
                 />
               </div>
               <div className="md:mt-24 md:col-span-2">
+                <div className="md:mt-24">
+                <MethodologyCard 
+                  title="Disease Reversal" 
+                  desc="Protocols engineered to modulate inflammatory markers and glycemic response."
+                  img="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600"
+                  accent="bg-emerald-500"
+                />
+              </div>
                 <div className="relative h-96 rounded-[3rem] overflow-hidden group">
                    <img src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&q=80&w=1200" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" alt="Full spectrum nutrition" />
                    <div className="absolute inset-0 bg-gradient-to-t from-[#1E3932] to-transparent opacity-80"></div>
