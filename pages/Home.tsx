@@ -182,12 +182,7 @@ const Home: React.FC = () => {
               <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000" alt="Balanced Mediterranean Diet" />
             </div>
             {/* Bottom Horizontal Wide Piece */}
-            <div className="col-span-2 rounded-[2rem] md:rounded-[3rem] overflow-hidden group relative">
-              <img src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000" alt="High Quality Protein Sources" />
-              <div className="absolute inset-0 flex items-center justify-center bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity">
-                <span className="text-white font-black uppercase tracking-[0.3em] text-[10px] border border-white/40 px-6 py-2 rounded-full">Explore Catalog</span>
-              </div>
-            </div>
+            
           </div>
         </div>
       </section>

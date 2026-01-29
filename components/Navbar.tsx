@@ -14,12 +14,14 @@ const Navbar: React.FC = () => {
   }, []);
 
   const navLinks = [
-    { name: 'Story', path: '/story' },
-    { name: 'News', path: '/news' },
+
     { name: 'Meal Plans', path: '/meal-plans' },
+     { name: 'About', path: '/about' },
     { name: 'Features', path: '/features' },
     { name: 'Pricing', path: '/pricing' },
-    { name: 'About', path: '/about' },
+    { name: 'Story', path: '/story' },
+    { name: 'News', path: '/news' },
+   
   ];
 
   const isActive = (path: string) => location.pathname === path;
